@@ -1,0 +1,1198 @@
+.theme-a {
+    background: var(--colour-a);
+    animation-name: light-up-a;
+}
+
+.theme-b {
+    background: var(--colour-b);
+    animation-name: light-up-b;
+}
+
+.theme-c {
+    background: var(--colour-c);
+    animation-name: light-up-c;
+}
+
+.theme-d {
+    background: var(--colour-d);
+    animation-name: light-up-d;
+}
+
+.theme-e {
+    background: var(--colour-e);
+    animation-name: light-up-e;
+}
+
+.theme-f {
+    background: var(--colour-f);
+    animation-name: light-up-f;
+}
+
+.theme-g {
+    background: var(--colour-g);
+    animation-name: light-up-g;
+}
+
+.theme-h {
+    background: var(--colour-h);
+    animation-name: light-up-h;
+}
+
+.theme-i {
+    background: var(--colour-i);
+    animation-name: light-up-i;
+}
+
+.theme-j {
+    background: var(--colour-j);
+    animation-name: light-up-j;
+}
+
+.theme-k {
+    background: var(--colour-k);
+    animation-name: light-up-k;
+}
+
+.theme-l {
+    background: var(--colour-l);
+    animation-name: light-up-l;
+}
+
+.theme-m {
+    background: var(--colour-m);
+    animation-name: light-up-m;
+}
+
+.theme-n {
+    background: var(--colour-n);
+    animation-name: light-up-n;
+}
+
+.theme-o {
+    background: var(--colour-o);
+    animation-name: light-up-o;
+}
+
+.theme-p {
+    background: var(--colour-p);
+    animation-name: light-up-p;
+}
+
+.theme-q {
+    background: var(--colour-q);
+    animation-name: light-up-q;
+}
+
+.theme-r {
+    background: var(--colour-r);
+    animation-name: light-up-r;
+}
+
+.theme-s {
+    background: var(--colour-s);
+    animation-name: light-up-s;
+}
+
+.theme-t {
+    background: var(--colour-t);
+    animation-name: light-up-t;
+}
+
+.theme-u {
+    background: var(--colour-u);
+    animation-name: light-up-u;
+}
+
+.theme-v {
+    background: var(--colour-v);
+    animation-name: light-up-v;
+}
+
+.theme-w {
+    background: var(--colour-w);
+    animation-name: light-up-w;
+}
+
+.theme-x {
+    background: var(--colour-x);
+    animation-name: light-up-x;
+}
+
+.theme-y {
+    background: var(--colour-y);
+    animation-name: light-up-y;
+}
+
+.theme-z {
+    background: var(--colour-z);
+    animation-name: light-up-z;
+}
+
+@keyframes light-up-a {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-a);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-a);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-a);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-a);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-b {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-b);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-b);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-b);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-b);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-c {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-c);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-c);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-c);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-c);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-d {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-d);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-d);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-d);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-d);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-e {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-e);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-e);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-e);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-e);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-f {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-f);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-f);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-f);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-f);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-g {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-g);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-g);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-g);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-g);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-h {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-h);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-h);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-h);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-h);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-i {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-i);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-i);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-i);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-i);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-j {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-j);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-j);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-j);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-j);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-k {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-k);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-k);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-k);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-k);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-l {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-l);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-l);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-l);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-l);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-m {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-m);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-m);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-m);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-m);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-n {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-n);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-n);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-n);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-n);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-o {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-o);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-o);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-o);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-o);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-p {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-p);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-p);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-p);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-p);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-q {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-q);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-q);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-q);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-q);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-r {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-r);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-r);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-r);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-r);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-s {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-s);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-s);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-s);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-s);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-t {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-t);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-t);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-t);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-t);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-u {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-u);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-u);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-u);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-u);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-v {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-v);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-v);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-v);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-v);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-w {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-w);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-w);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-w);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-w);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-x {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-x);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-x);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-x);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-x);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-y {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-y);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-y);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-y);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-y);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes light-up-z {
+    0% {
+        box-shadow: 0 1px 5px 5px var(--colour-z);
+    }
+    25% {
+        box-shadow: 0 1px 10px 5px var(--colour-z);
+    }
+    50% {
+        box-shadow: 0 1px 15px 5px var(--colour-z);
+    }
+    75% {
+        box-shadow: 0 1px 20px 5px var(--colour-z);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+
+/* tree */
+
+.tree-theme-a {
+    background: var(--colour-a);
+    animation-name: tree-light-up-a;
+}
+
+.tree-theme-b {
+    background: var(--colour-b);
+    animation-name: tree-light-up-b;
+}
+
+.tree-theme-c {
+    background: var(--colour-c);
+    animation-name: tree-light-up-c;
+}
+
+.tree-theme-d {
+    background: var(--colour-d);
+    animation-name: tree-light-up-d;
+}
+
+.tree-theme-e {
+    background: var(--colour-e);
+    animation-name: tree-light-up-e;
+}
+
+.tree-theme-f {
+    background: var(--colour-f);
+    animation-name: tree-light-up-f;
+}
+
+.tree-theme-g {
+    background: var(--colour-g);
+    animation-name: tree-light-up-g;
+}
+
+.tree-theme-h {
+    background: var(--colour-h);
+    animation-name: tree-light-up-h;
+}
+
+.tree-theme-i {
+    background: var(--colour-i);
+    animation-name: tree-light-up-i;
+}
+
+.tree-theme-j {
+    background: var(--colour-j);
+    animation-name: tree-light-up-j;
+}
+
+.tree-theme-k {
+    background: var(--colour-k);
+    animation-name: tree-light-up-k;
+}
+
+.tree-theme-l {
+    background: var(--colour-l);
+    animation-name: tree-light-up-l;
+}
+
+.tree-theme-m {
+    background: var(--colour-m);
+    animation-name: tree-light-up-m;
+}
+
+.tree-theme-n {
+    background: var(--colour-n);
+    animation-name: tree-light-up-n;
+}
+
+.tree-theme-o {
+    background: var(--colour-o);
+    animation-name: tree-light-up-o;
+}
+
+.tree-theme-p {
+    background: var(--colour-p);
+    animation-name: tree-light-up-p;
+}
+
+.tree-theme-q {
+    background: var(--colour-q);
+    animation-name: tree-light-up-q;
+}
+
+.tree-theme-r {
+    background: var(--colour-r);
+    animation-name: tree-light-up-r;
+}
+
+.tree-theme-s {
+    background: var(--colour-s);
+    animation-name: tree-light-up-s;
+}
+
+.tree-theme-t {
+    background: var(--colour-t);
+    animation-name: tree-light-up-t;
+}
+
+.tree-theme-u {
+    background: var(--colour-u);
+    animation-name: tree-light-up-u;
+}
+
+.tree-theme-v {
+    background: var(--colour-v);
+    animation-name: tree-light-up-v;
+}
+
+.tree-theme-w {
+    background: var(--colour-w);
+    animation-name: tree-light-up-w;
+}
+
+.tree-theme-x {
+    background: var(--colour-x);
+    animation-name: tree-light-up-x;
+}
+
+.tree-theme-y {
+    background: var(--colour-y);
+    animation-name: tree-light-up-y;
+}
+
+.tree-theme-z {
+    background: var(--colour-z);
+    animation-name: tree-light-up-z;
+}
+
+@keyframes tree-light-up-a {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-a);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-a);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-a);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-a);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-b {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-b);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-b);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-b);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-b);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-c {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-c);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-c);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-c);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-c);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-d {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-d);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-d);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-d);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-d);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-e {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-e);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-e);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-e);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-e);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-f {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-f);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-f);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-f);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-f);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-g {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-g);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-g);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-g);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-g);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-h {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-h);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-h);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-h);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-h);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-i {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-i);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-i);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-i);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-i);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-j {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-j);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-j);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-j);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-j);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-k {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-k);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-k);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-k);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-k);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-l {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-l);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-l);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-l);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-l);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-m {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-m);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-m);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-m);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-m);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-n {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-n);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-n);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-n);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-n);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-o {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-o);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-o);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-o);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-o);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-p {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-p);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-p);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-p);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-p);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-q {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-q);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-q);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-q);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-q);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-r {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-r);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-r);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-r);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-r);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-s {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-s);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-s);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-s);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-s);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-t {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-t);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-t);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-t);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-t);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-u {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-u);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-u);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-u);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-u);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-v {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-v);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-v);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-v);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-v);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-w {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-w);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-w);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-w);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-w);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-x {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-x);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-x);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-x);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-x);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-y {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-y);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-y);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-y);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-y);
+    }
+    100% {
+        box-shadow: none;
+    }
+}
+
+@keyframes tree-light-up-z {
+    0% {
+        box-shadow: 0 1px 3px 3px var(--colour-z);
+    }
+    25% {
+        box-shadow: 0 1px 4px 3px var(--colour-z);
+    }
+    50% {
+        box-shadow: 0 1px 5px 3px var(--colour-z);
+    }
+    75% {
+        box-shadow: 0 1px 6px 3px var(--colour-z);
+    }
+    100% {
+        box-shadow: none;
+    }
+}

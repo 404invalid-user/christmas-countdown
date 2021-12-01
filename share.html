@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- a Christmas Countdown made by invaliduser https://github.com/404invalid-user/ with help from other sources -->
+    <title>Share - Christmas Countdown</title>
+    <!-- meta data -->
+    <meta name="author" content="404invalid-user" />
+    <meta property="og:title" content="Christmas Countdown" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:description" content="Share a Christmas Countdown to show the exact time to Christmas Day with a nice message" />
+    <!-- change these urls to your ones -->
+    <link rel="alternate" type="application/json+oembed" href="./index.json" />
+    <meta property="og:url" content="http://invaliduser.uk.to/christmas-countdown/index.json" />
+    <meta property="og:image" content="http://invaliduser.uk.to/christmas-countdown/tree.png" />
+    <meta content="#FF0000" data-react-helmet="true" name="theme-color" />
+    <!-- link -->
+    <link rel="shortcut icon" href="http://invaliduser.uk.to/christmas-countdown/tree.png" />
+    <link rel="stylesheet" href="./styles.css?e" />
+    <link rel="stylesheet" href="./lightup.css?e" />
+    <!-- script -->
+    <script defer src="./share.js"></script>
+    <script defer src="./client.js"></script>
+
+</head>
+
+<body>
+    <section class="light-bulbs">
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-two"></div>
+        <div class="light-bulb theme-color-three"></div>
+        <div class="light-bulb theme-color-four"></div>
+        <div class="light-bulb theme-color-five"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-two"></div>
+        <div class="light-bulb theme-color-three"></div>
+        <div class="light-bulb theme-color-four"></div>
+        <div class="light-bulb theme-color-five"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-two"></div>
+        <div class="light-bulb theme-color-three"></div>
+        <div class="light-bulb theme-color-four"></div>
+        <div class="light-bulb theme-color-five"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-one"></div>
+        <div class="light-bulb theme-color-two"></div>
+        <div class="light-bulb theme-color-three"></div>
+        <div class="light-bulb theme-color-four"></div>
+        <div class="light-bulb theme-color-five"></div>
+        <div class="light-bulb theme-color-one"></div>
+    </section>
+    <h1 class="headline">Merry Christmas</h1>
+    <h2 style="text-align: center;">send your message</h2>
+    <div class="container">
+        <p id="info"></p>
+        <label for="input-to">To</label>
+        <input type="text" id="input-to" name="input-to" placeholder="To...">
+
+        <label for="input-from">From</label>
+        <input type="text" id="input-from" name="input-from" placeholder="From...">
+
+        <label for="input-message">Message</label>
+        <textarea id="input-message" name="input-message" placeholder="Your optional message.." style="height:200px"></textarea>
+
+        <button onclick="share()">Share</button>
+    </div>
+</body>
+
+</html>
