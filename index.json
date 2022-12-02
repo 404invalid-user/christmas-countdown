@@ -1,15 +1,15 @@
 {
     "version": "1.0",
     "provider_name": "Christmas Countdown",
-    "provider_url": "https:\/\/invaliduser.uk.to\/christmas-countdown",
+    "provider_url": "https:\/\/bruvland.com\/christmas-countdown",
     "author_name": "404invalid-user",
-    "author_url": "https:\/\/invalidlag.com",
+    "author_url": "https:\/\/invaliduser.xyz",
     "title": "Christmas Countdown",
     "type": "rich",
     "width": 600,
     "height": 338,
     "html": "<h1>Christmas Countdown</h1><br><h2>make a Christmas Countdown</p>",
-    "thumbnail_url": "https:\/\/invaliduser.uk.to\/christmas-countdown\/tree.png",
+    "thumbnail_url": "https:\/\/bruvland.com\/christmas-countdown\/tree.png",
     "thumbnail_width": 600,
     "thumbnail_height": 437
 }
