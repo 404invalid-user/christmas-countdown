@@ -8,7 +8,7 @@ setInterval(() => {
 
 
 function checkDayTime() {
-    if (timeHours > 6 || timeHours < 18) {
+    if (timeHours > 6 && timeHours < 16) {
         //its day in local tz so apply light theme
         setLightTheme();
     } else {
